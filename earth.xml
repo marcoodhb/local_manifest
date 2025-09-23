@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="github"
+            fetch="https://github.com" />
+    
+    <!-- Device Tree -->
+    <project path="device/xiaomi/earth" 
+             name="mt6768-dev/android_device_xiaomi_earth" 
+             remote="github" 
+             revision="lineage-22.2" 
+             clone-depth="1" />
+    
+    <!-- Vendor/Proprietary Blobs -->
+    <project path="vendor/xiaomi/earth" 
+             name="mt6768-dev/proprietary_vendor_xiaomi_earth" 
+             remote="github" 
+             revision="lineage-22.2" 
+             clone-depth="1" />
+    
+    <!-- Kernel -->
+    <project path="kernel/xiaomi/earth" 
+             name="mt6768-dev/android_kernel_xiaomi_earth" 
+             remote="github" 
+             revision="lineage-22.2" 
+             clone-depth="1" />
+    
+
+    <!-- MediaTek Hardware Support -->
+    <project path="device/mediatek/sepolicy_vndr" 
+             name="LineageOS/android_device_mediatek_sepolicy_vndr" 
+             remote="github" 
+             revision="lineage-22.2" 
+             clone-depth="1" />
+    
+    <project path="hardware/mediatek" 
+             name="LineageOS/android_hardware_mediatek" 
+             remote="github" 
+             revision="lineage-22.2" 
+             clone-depth="1" />
+    
+    <!-- Xiaomi Hardware Support -->
+    <project path="hardware/xiaomi" 
+             name="LineageOS/android_hardware_xiaomi" 
+             remote="github" 
+             revision="lineage-22.2" 
+             clone-depth="1" />
+
+</manifest>
