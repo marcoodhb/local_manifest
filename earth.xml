@@ -45,6 +45,12 @@
              revision="lineage-22.2" 
              clone-depth="1" />
 
+    <!-- Sign-->
+    <project path="certs"
+             name="germaniumsculk/certs"
+             remote="github"
+             revision="main" />
+
     <!-- Remove qcom repos -->
     <remove-project name="hardware/qcom/sdm845" />
     <remove-project name="hardware/qcom/sm7250" />  
