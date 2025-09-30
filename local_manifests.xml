@@ -51,4 +51,10 @@
              remote="gothob"
              revision="main" />
 
+    <project path="vendor/mediatek/ims"
+             name="techyminati/android_vendor_mediatek_ims"
+             remote="gothob"
+             revision="android-16"
+             clone-depth="1" />
+
     </manifest>
