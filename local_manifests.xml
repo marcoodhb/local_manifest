@@ -12,9 +12,9 @@
     
     <!-- Vendor/Proprietary Blobs -->
     <project path="vendor/xiaomi/earth" 
-             name="mt6768-dev/proprietary_vendor_xiaomi_earth" 
+             name="marcoodhb/proprietary_vendor_xiaomi_earth" 
              remote="gothob" 
-             revision="lineage-22.2" 
+             revision="lineage-23.0-dev" 
              clone-depth="1" />
     
     <!-- Kernel -->
