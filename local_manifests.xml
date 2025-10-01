@@ -29,7 +29,7 @@
     <project path="device/mediatek/sepolicy_vndr" 
              name="LineageOS/android_device_mediatek_sepolicy_vndr" 
              remote="gothob" 
-             revision="lineage-22.2" 
+             revision="lineage-23.0" 
              clone-depth="1" />
     
     <project path="hardware/mediatek" 
@@ -42,7 +42,7 @@
     <project path="hardware/xiaomi" 
              name="marcoodhb/android_hardware_xiaomi" 
              remote="gothob" 
-             revision="lineage-22.2" 
+             revision="lineage-23.0" 
              clone-depth="1" />
 
     <!-- Sign-->
