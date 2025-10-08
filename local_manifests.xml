@@ -51,4 +51,9 @@
              remote="gothob"
              revision="main" />
 
+    <project path="device/xiaomi/earth/prebuilt/app/GCam" 
+             name="marcoodhb/cam" 
+             remote="gothob" 
+             revision="main" />
+
     </manifest>
