@@ -21,7 +21,7 @@
     <project path="kernel/xiaomi/earth" 
              name="marcoodhb/android_kernel_xiaomi_earth" 
              remote="gothob" 
-             revision="lineage-23.0-ksufl" 
+             revision="lineage-23.0-ksubck" 
              clone-depth="1" />
     
 
