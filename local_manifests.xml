@@ -19,9 +19,9 @@
     
     <!-- Kernel -->
     <project path="kernel/xiaomi/earth" 
-             name="marcoodhb/android_kernel_xiaomi_earth" 
+             name="marcoodhb/kernel-xiaomi-earth" 
              remote="gothob" 
-             revision="ksu-23.0" 
+             revision="ksu" 
              clone-depth="1" />
     
 
