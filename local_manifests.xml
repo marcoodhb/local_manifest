@@ -45,6 +45,12 @@
              revision="aosp-16" 
              clone-depth="1" />
 
+    <project path="packages/apps/RevampedFMRadio" 
+             name="iusmac/RevampedFMRadio" 
+             remote="gothob" 
+             revision="mtk" 
+             clone-depth="1" />
+
     <!-- Sign-->
     <project path="certs"
              name="germaniumsculk/certs"
