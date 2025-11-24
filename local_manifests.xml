@@ -45,7 +45,7 @@
              revision="aosp-16" 
              clone-depth="1" />
 
-    <project path="packages/apps/RevampedFMRadio" 
+    <project path="vendor/apps/RevampedFMRadio" 
              name="iusmac/RevampedFMRadio" 
              remote="gothob" 
              revision="mtk" 
