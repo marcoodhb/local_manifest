@@ -2,7 +2,10 @@
 <manifest>
     <remote name="gothob"
             fetch="https://github.com" />
-    
+
+    <remote name="gotlob" 
+            fetch="https://gitlab.com/" />
+
     <!-- Device Tree -->
     <project path="device/xiaomi/earth" 
              name="marcoodhb/android_device_xiaomi_earth" 
@@ -67,4 +70,8 @@
              remote="gothob" 
              revision="main" />
 
+    <project path="vendor/pixel/gms"
+             name="pixelos-aosp/proprietary_vendor_pixel_gms-16.0"
+             remote="gotlob"
+             revision="sixteen" />
     </manifest>
