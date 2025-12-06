@@ -70,8 +70,4 @@
              remote="gothob" 
              revision="main" />
 
-    <project path="vendor/pixel/gms"
-             name="pixelos-aosp/proprietary_vendor_pixel_gms-16.0"
-             remote="gotlob"
-             revision="sixteen" />
     </manifest>
