@@ -15,9 +15,9 @@
     
     <!-- Vendor/Proprietary -->
     <project path="vendor/xiaomi/earth" 
-             name="mt6768-dev/proprietary_vendor_xiaomi_earth" 
+             name="marcoodhb/proprietary_vendor_xiaomi_earth" 
              remote="gothob" 
-             revision="lineage-23.0" 
+             revision="16.1" 
              clone-depth="1" />
     
     <!-- Kernel -->
