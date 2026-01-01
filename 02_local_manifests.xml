@@ -74,4 +74,10 @@
              name="xiaomi-mediatek-devs/android_vendor_mediatek_ims"
              remote="gothob"
              revision="android-16" />
+
+    <project path="hardware/interfaces" 
+             name="marcoodhb/android_hardware_interfaces" 
+             remote="gothob" 
+             revision="sixteen-qpr1" 
+             clone-depth="1" />
     </manifest>
