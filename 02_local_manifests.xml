@@ -30,9 +30,9 @@
 
     <!-- MediaTek Hardware Support -->
     <project path="device/mediatek/sepolicy_vndr" 
-             name="LineageOS/android_device_mediatek_sepolicy_vndr" 
+             name="marcoodhb/android_device_mediatek_sepolicy_vndr" 
              remote="gothob" 
-             revision="lineage-23.0" 
+             revision="lineage-23.1" 
              clone-depth="1" />
     
     <project path="hardware/mediatek" 
